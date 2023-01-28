@@ -1,6 +1,6 @@
 # Supplier Credit System || App Script || 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+Project Video [Youtube](https://youtu.be/tbsYE9a9KI8).
 
 Data Flow Diagram
 
