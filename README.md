@@ -1,7 +1,5 @@
 # Supplier Credit System || App Script || 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tbsYE9a9KI8&ab_channel=SharifAshikIshtiak/0.jpg)](https://www.youtube.com/watch?v=tbsYE9a9KI8&ab_channel=SharifAshikIshtiak)
-
 Project Video [Youtube](https://youtu.be/tbsYE9a9KI8).
 
 Data Flow Diagram
